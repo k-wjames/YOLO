@@ -20,4 +20,11 @@
         android:text="Base Command Dispatch Unit Dispatched."
         android:textAllCaps="false"/>
 
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Radar On Sir"
+        android:layout_margin="10dp"/>
+
 </LinearLayout>
